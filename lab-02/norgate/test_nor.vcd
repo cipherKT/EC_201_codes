@@ -1,0 +1,50 @@
+$date
+	Sun Nov 12 12:57:59 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module norgate_tb $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+0"
+1!
+$end
+#5
+0!
+1#
+#10
+0#
+1"
+#15
+1#
+#20
+1!
+0#
+0"
+#25
+0!
+1#
+#30
+0#
+1"
+#35
+1#
+#40
+1!
+0#
+0"
