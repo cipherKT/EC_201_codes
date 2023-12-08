@@ -1,0 +1,70 @@
+$date
+	Fri Dec  1 15:57:17 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module cyclic_lamp_tb $end
+$var wire 3 ! light [0:2] $end
+$var reg 1 " clock $end
+$scope module ved $end
+$var wire 1 " clock $end
+$var reg 1 # clock_out $end
+$var reg 26 $ count [0:25] $end
+$var reg 3 % light [0:2] $end
+$var reg 2 & state [0:1] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx &
+bx %
+b0 $
+x#
+0"
+bx !
+$end
+#5
+1"
+#10
+0"
+#15
+1"
+#20
+0"
+#25
+1"
+#30
+0"
+#35
+1"
+#40
+0"
+#45
+1"
+#50
+0"
+#55
+1"
+#60
+0"
+#65
+1"
+#70
+0"
+#75
+1"
+#80
+0"
+#85
+1"
+#90
+0"
+#95
+1"
+#100
+0"
